@@ -1,15 +1,15 @@
 # Hello! I'm Megumi ISAKI
 - @Megumi-ISAKI
-かけだしのフリーのコーダーとしてお仕事を受注しています。
-本業はファイナンシャルプランナーです。
+- かけだしのフリーのコーダーとしてお仕事を受注しています。
+- 本業はファイナンシャルプランナーです。
 
 ## Skills
 - HTML, CSS, JavaScrypt, Wordpress
 
 ## About GitHub
-- planned to be used mainly for learning output.
+Planned to be used mainly for learning output.
 
-# Accounts
+## Accounts
 - [X](https://x.com/oubai1108)
 - [Facebook](https://www.facebook.com/megumi.isaki.2025)
 - [Mail](mailto:megumi.isaki@gmail.com)
