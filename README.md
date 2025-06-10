@@ -13,7 +13,7 @@
 </div>
 
 <div style="text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=ffffff&color=990066&line=990066&point=990066&area=true&hide_border=true" />
 </div>
 
 ## 🛠️ **Tech Stack**
