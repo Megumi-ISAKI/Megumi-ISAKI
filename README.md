@@ -9,11 +9,11 @@
 
 ## 📊 **GitHub Analytics**
 <div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Megumi-Isaki&theme=transparent&border_radius=10&starting_year=2025" alt="readme streak stats" />
 </div>
 
 <div style="text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megumi-Isaki&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=ffffff&color=990066&line=990066&point=990066&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megumi-Isaki&custom_title=Megumi's%20GitHub%20Activity%20Graph&bg_color=ffffff&color=990066&line=990066&point=990066&area=true&hide_border=true" />
 </div>
 
 ## 🛠️ **Tech Stack**
