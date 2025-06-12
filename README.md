@@ -8,13 +8,10 @@
 - 本業はファイナンシャルプランナーです。
 
 ## 📊 **GitHub Analytics**
-<div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Megumi-Isaki&theme=transparent&border_radius=10&starting_year=2025" alt="readme streak stats" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megumi-Isaki)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megumi-Isaki&custom_title=Megumi's%20GitHub%20Activity%20Graph&bg_color=ffffff&color=990066&line=990066&point=990066&area=true&hide_border=true" />
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megumi-Isaki)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ **Tech Stack**
 
