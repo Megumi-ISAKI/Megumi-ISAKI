@@ -4,7 +4,6 @@
 ### 👋 Hello! I'm Megumi ISAKI
 - @Megumi-ISAKI
 - [Portforio](https://oubai.net)
-- かけだしのフリーのコーダーとしてお仕事を受注しています。
 - 本業はファイナンシャルプランナーです。
 
 ## 📊 **GitHub Analytics**
